@@ -1,2 +1,2 @@
 # Text Summarizer
-A small Python text summarizer project. (Edited by branch readme-1)
+A small Python text summarizer project. (Merged: combined note by readme-1 and readme-2)
